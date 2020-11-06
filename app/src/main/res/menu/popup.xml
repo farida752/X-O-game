@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="play with computer"
+    android:id="@+id/item_play_with_computer"
+    />
+
+    <item
+        android:title="Two players"
+        android:id="@+id/item_two_players"
+        />
+</menu>
